@@ -21,10 +21,6 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
-  - [Organization](#Organization)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -40,28 +36,6 @@ Small little .exe app that works as a number guessing game.
 
 - [Visual Studio Community Edition]
 
-<!-- Organization -->
-
-## Organization
-
-
-
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-
-
-### Installation
-
-
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-### Commands
-
 
 <!-- CONTACT -->
 
@@ -71,6 +45,12 @@ Repo Creation ALayendecker
 
 Project Link: [https://github.com/Alayendecker/Csharp-number-guesser](https://github.com/Alayendecker/LIRI-Bot)
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [othneildrew - Best README Template](https://github.com/othneildrew/Best-README-Template)
+- [bradtraversy](https://github.com/bradtraversy/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
